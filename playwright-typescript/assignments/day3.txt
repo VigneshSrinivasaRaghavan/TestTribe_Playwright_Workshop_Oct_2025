@@ -1,0 +1,5 @@
+1. Practice all different types of assertion
+2. Select different Drop down from https://www.globalsqa.com/demo-site/select-dropdown-menu/
+3. Select different Drop down from https://semantic-ui.com/modules/dropdown.html
+4. Select different Radio Button from https://demos.jquerymobile.com/1.4.5/checkboxradio-radio/
+5. Select different Checkbox from https://demos.jquerymobile.com/1.4.5/checkboxradio-checkbox
