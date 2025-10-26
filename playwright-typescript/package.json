@@ -9,6 +9,8 @@
   "description": "",
   "devDependencies": {
     "@playwright/test": "^1.56.0",
-    "@types/node": "^24.7.2"
+    "@types/luxon": "^3.7.1",
+    "@types/node": "^24.7.2",
+    "luxon": "^3.7.2"
   }
 }

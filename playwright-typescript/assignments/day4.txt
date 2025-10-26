@@ -1,0 +1,5 @@
+1. All 3 types of alerts from https://demo.automationtesting.in/Alerts.html
+2. Both frame and nestedFrame from https://demo.automationtesting.in/Frames.html
+3. Single & Multi Tab and window handling from https://www.hyrtutorials.com/p/window-handles-practice.html
+4. Text box Calendar from https://www.tutorialspoint.com/selenium/practice/selenium_automation_practice.php
+5. General Calendar from https://www.globalsqa.com/demo-site/datepicker/#google_vignette
