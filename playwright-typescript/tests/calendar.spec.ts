@@ -8,7 +8,7 @@ test('Using Fill Method', async ({ page }) => {
   await page.locator('#birthday').fill('2024-10-18');
 })
 
-test.only('Using Luxon', async ({ page }) => {
+test('Using Luxon', async ({ page }) => {
   await page.goto('https://www.lambdatest.com/selenium-playground/bootstrap-date-picker-demo');
 
   // Past Date Selection
