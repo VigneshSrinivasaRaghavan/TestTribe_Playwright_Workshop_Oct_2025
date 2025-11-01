@@ -1,0 +1,6 @@
+Practice on following topics
+1. Drag and drop from - https://www.globalsqa.com/demo-site/draganddrop/
+2. Downloading file - https://getsamplefiles.com/sample-document-files/pdf
+3. Uploading file - https://tus.io/demo
+4. Parametrization using Test Level and using json for login with - https://www.saucedemo.com/
+5. Excel Data Parametrisation for https://www.saucedemo.com/ -->Hint - Use xlsx dependency - https://www.npmjs.com/package/xlsx

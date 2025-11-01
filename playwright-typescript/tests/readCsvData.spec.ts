@@ -29,3 +29,8 @@ test(`Login test with InValid Creds`, async ({ page }) => {
     await page.locator('[type="submit"]').click();
     await expect(page.locator('.orangehrm-login-error>.oxd-alert--error')).toBeVisible();
 });
+
+/*
+Similar to Read CSV - Try to write test read data from excel
+Hint - Use xlsx dependency - https://www.npmjs.com/package/xlsx
+*/
