@@ -1,0 +1,4 @@
+Practice on following topics
+1. Screenshot and videos enabling with all possible combinations
+2. Setup Page object model structure with fixture included for a E2E flow in https://www.saucedemo.com/
+3. Setup Allure report with package.json scripts included
