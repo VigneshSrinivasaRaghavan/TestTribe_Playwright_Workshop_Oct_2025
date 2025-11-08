@@ -1,0 +1,3 @@
+Practice on following topics
+1. Setup Cucumber repository and automate an E2E flow for https://www.saucedemo.com/
+2. Setup Docker Compose and Docker file and run an E2E flow
